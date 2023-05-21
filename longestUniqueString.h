@@ -6,6 +6,7 @@
 class longestUniqueString{
 public:
 	int LongestUniqueString(std::string s);
+	int max(int& x, int& y);
 };
 
 

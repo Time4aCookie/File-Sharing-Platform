@@ -8,4 +8,4 @@ include_directories(.)
 add_executable(LongestUniqueString
         longestUniqueString.cpp
         longestUniqueString.h
-        main.cpp)
+        main.cpp longestUniqueString.cpp OptimalLongestUniqueString.cpp)
