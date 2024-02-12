@@ -1,10 +1,9 @@
 # File Sharing Site
 I have created a simple file sharing site allowing users to upload, view, remove, open, and share any type of file.
 
-## Directory structure
-
+## Note
 - Valid usernames are John, Sally and Jane  
 
 - Please visit
-https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/TxSeEQdJ
+http://ec2-3-17-36-183.us-east-2.compute.amazonaws.com/~Rtatikonda11/file-share/homePage.php
 
