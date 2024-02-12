@@ -1,5 +1,5 @@
-# File Sharing Site
-I have created a simple file sharing site allowing users to upload, view, remove, open, and share any type of file.
+# File Sharing Platform
+I have created a simple file sharing platform allowing users to upload, view, remove, open, and share any type of file.
 
 ## Note
 - Valid usernames are John, Sally and Jane  
